@@ -7,8 +7,9 @@ Conducted as part of ongoing research and aligned with my role as a data scienti
 
 ## Objectives
 
-Performance Examination: Perform an in-depth analysis of the performance data for finalists in the Men's 1500m Freestyle and predict the final time
-Pace Strategy Identification: Identify and characterize the pace strategies employed by elite swimmers, highlighting variations and commonalities in their approach to the 1500m race.
+- Performance Examination: Perform an in-depth analysis of the performance data for finalists in the Men's 1500m Freestyle and predict the final time
+- Pace Strategy Identification: Identify and characterize the pace strategies employed by elite swimmers, highlighting variations for the 1500m race.
+- Predict the final time with few features
 
 ## Author's Note
 
@@ -16,6 +17,7 @@ This analysis seeks to contribute valuable insights to the understanding of athl
 The findings are anticipated to shed light on optimal strategies employed by top-tier athletes in the challenging 1500m freestyle category.
 Using machine learning model to predict final time.
 
+data was retrieved from the FINA website.
 
 the taskes in this notebooks include:
 
